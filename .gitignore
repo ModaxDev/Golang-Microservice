@@ -1,4 +1,6 @@
 /authentication-service/authApp
 /broker-service/brokerApp
+/logger-service/loggerServiceApp
 /front-end/frontApp
 /project/db-data/postgres/
+/project/db-data/mongo/
