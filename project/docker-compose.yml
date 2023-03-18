@@ -89,7 +89,7 @@ services:
       mode: replicated
       replicas: 1
     volumes:
-      - ./db-data/mongo/@:/data/db/
+      - ./db-data/mongo/:/data/db/
 
   mailhog:
     image: 'mailhog/mailhog:latest'
